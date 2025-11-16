@@ -9,7 +9,7 @@ I'm a passionate **Front-End Developer** focused on building **modern, responsiv
 
 - 🌱 Currently improving my skills in **React.js**  
 - 💼 Available for freelance projects  
-- 📫 Reach me at: your-email@example.com  
+- 📫 Reach me at: maksudurrhmn2001@gmail.com  
 
 ---
 
