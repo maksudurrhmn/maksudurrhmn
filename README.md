@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Maksudur Rahman 👋
 
-<!--
-**maksudurrhmn/maksudurrhmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&background=00000000&lines=Front-End+Developer;Figma+to+HTML+Expert;Freelance+Web+Developer)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ About Me
+I'm a passionate **Front-End Developer** focused on building **modern, responsive websites**. I enjoy turning **designs into pixel-perfect websites** and helping clients bring their ideas to life.  
+
+- 🌱 Currently improving my skills in **React.js**  
+- 💼 Available for freelance projects  
+- 📫 Reach me at: your-email@example.com  
+
+---
+
+## 🛠️ Skills
+- **Front-End:** HTML, CSS, JavaScript, Bootstrap  
+- **Design to Code:** Figma → HTML conversion  
+- **Tools:** Git, GitHub, VS Code, Chrome DevTools  
+- **Other:** Responsive Design, Mobile-Friendly Layouts  
+
+---
+
+## 📊 GitHub Stats
+![Maksudurrhmn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksudurrhmn&show_icons=true&count_private=true&theme=radical)
+
+---
+
+## ⚡ Fun Fact
+"Turning coffee ☕ and ideas 💡 into clean, responsive websites!"
