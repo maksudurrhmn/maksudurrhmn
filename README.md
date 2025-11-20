@@ -14,7 +14,7 @@ I'm a passionate **Front-End Developer** focused on building **modern, responsiv
 ---
 
 ## 🛠️ Skills
-- **Front-End:** HTML, CSS, JavaScript, Bootstrap  
+- **Front-End:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS  
 - **Design to Code:** Figma → HTML conversion  
 - **Tools:** Git, GitHub, VS Code, Chrome DevTools  
 - **Other:** Responsive Design, Mobile-Friendly Layouts  
