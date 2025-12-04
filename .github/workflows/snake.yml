@@ -1,0 +1,50 @@
+name: Generate Contribution Snake
+
+# Run on push to main (so it updates when you push) and weekly on Monday (optional)
+on:
+  push:
+    branches: ['main', 'master']
+  schedule:
+    - cron: '0 0 * * 1' # every Monday at 00:00 UTC (optional)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate contribution snake SVG
+        # use npx to run the CLI without installing permanently
+        run: |
+          mkdir -p output
+          npx github-contribution-grid-snake \
+            --username maksudurrhmn \
+            --output output/github-contribution-grid-snake.svg \
+            --square 12 \
+            --gutter 4 \
+            --stroke-width 1 \
+            --theme github-dark \
+            || npx github-contribution-grid-snake --username maksudurrhmn --output output/github-contribution-grid-snake.svg
+
+      - name: Commit and push SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/github-contribution-grid-snake.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update contribution snake"
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
