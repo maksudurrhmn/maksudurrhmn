@@ -89,7 +89,18 @@ I enjoy turning **designs into pixel-perfect websites** and helping clients brin
 ---
 
 # 📈 GitHub Activity Graph  
-![Maksudurrhmn's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maksudurrhmn&theme=react-dark&hide_border=true)
+![Maksudurrhmn's Activity Graph](https://readme-activity-graph.vercel.app/graph?username=maksudurrhmn&theme=react-dark&hide_border=true)
+
+---
+
+# 🐍 GitHub Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/maksudurrhmn/maksudurrhmn/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/maksudurrhmn/maksudurrhmn/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/maksudurrhmn/maksudurrhmn/output/github-snake.svg">
+  </picture>
+</p>
 
 ---
 
