@@ -1,16 +1,90 @@
-## Hi there 👋
+# Hi, I'm Maksudur Rahman 👋
 
-<!--
-**maksudurrhmn/maksudurrhmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&background=00000000&lines=Front-End+Developer;Figma+to+HTML+Expert;Freelance+Web+Developer)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ About Me
+I'm a passionate **Front-End Developer** focused on building **modern, responsive websites**.  
+I enjoy turning **designs into pixel-perfect websites** and helping clients bring their ideas to life.  
+
+- 🌱 Currently improving my skills in **React.js**  
+- 💼 Available for freelance projects  
+- 📫 Reach me at: **maksudurrhmn2001@gmail.com**
+
+---
+
+## 🛠️ Skills
+- **Front-End:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS  
+- **Design to Code:** Figma → HTML conversion  
+- **Tools:** Git, GitHub, VS Code, Chrome DevTools  
+- **Other:** Responsive Design, Mobile-Friendly Layouts  
+
+---
+
+# 🚀 Projects Showcase
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="YOUR_LIVE_LINK_1">
+        <img src="YOUR_IMAGE_LINK_1" width="100%" alt="Project 1"/>
+      </a>
+      <br />
+      <b>Portfolio Website</b>
+      <br />
+      <a href="YOUR_REPO_LINK_1">GitHub Repo</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="YOUR_LIVE_LINK_2">
+        <img src="YOUR_IMAGE_LINK_2" width="100%" alt="Project 2"/>
+      </a>
+      <br />
+      <b>Figma to HTML Landing Page</b>
+      <br />
+      <a href="YOUR_REPO_LINK_2">GitHub Repo</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="YOUR_LIVE_LINK_3">
+        <img src="YOUR_IMAGE_LINK_3" width="100%" alt="Project 3"/>
+      </a>
+      <br />
+      <b>Modern Agency Website</b>
+      <br />
+      <a href="YOUR_REPO_LINK_3">GitHub Repo</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔗 Social Profiles & Badges  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maksudurrhmn)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/maksudurrhmn)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maksudurrhmn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksudurrhmn2001@gmail.com)
+
+---
+
+## 📊 GitHub Stats & Language Usage
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img alt="GitHub Stats" src="https://github-readme-stats-mirror.vercel.app/api?username=maksudurrhmn&show_icons=true&theme=radical" />
+    </td>
+    <td align="center" width="50%">
+      <img alt="Top Languages" src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=maksudurrhmn&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
+
+---
+
+# 📈 GitHub Activity Graph  
+![Maksudurrhmn's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maksudurrhmn&theme=react-dark&hide_border=true)
+
+---
+
+## ⚡ Fun Fact  
+"Turning coffee ☕ and ideas 💡 into clean, responsive websites!"
