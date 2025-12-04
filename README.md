@@ -96,9 +96,9 @@ I enjoy turning **designs into pixel-perfect websites** and helping clients brin
 # 🐍 GitHub Contribution Snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/maksudurrhmn/maksudurrhmn/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/maksudurrhmn/maksudurrhmn/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/maksudurrhmn/maksudurrhmn/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/maksudurrhmn/maksudurrhmn/main/dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/maksudurrhmn/maksudurrhmn/main/dist/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/maksudurrhmn/maksudurrhmn/main/dist/github-snake.svg">
   </picture>
 </p>
 
