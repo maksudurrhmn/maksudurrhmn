@@ -22,6 +22,13 @@ I enjoy turning **designs into pixel-perfect websites** and helping clients brin
 
 ---
 
+## 🧰 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,git,github,vscode,figma" />
+</p>
+
+---
+
 # 🚀 Projects Showcase
 
 <table>
