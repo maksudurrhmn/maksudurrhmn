@@ -50,7 +50,7 @@ I enjoy turning **designs into pixel-perfect websites** and helping clients brin
         <img src="assets/Sundowm-Studio.png" width="100%" alt="Project 2"/>
       </a>
       <br />
-      <b>Sundown-Studio Web</b>
+      <b>Sundown-Studio Website</b>
       <br />
       <a href="https://github.com/maksudurrhmn/Sundown-Studio.git">GitHub Repo</a>
     </td>
