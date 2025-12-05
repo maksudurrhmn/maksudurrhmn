@@ -113,3 +113,9 @@ I enjoy turning **designs into pixel-perfect websites** and helping clients brin
 ## ⚡ Fun Fact
 
 "Turning coffee ☕ and ideas 💡 into clean, responsive websites!"
+
+---
+
+## 👀 Profile Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=maksudurrhmn&color=0e75b6&style=flat-square)
