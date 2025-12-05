@@ -46,13 +46,13 @@ I enjoy turning **designs into pixel-perfect websites** and helping clients brin
       <a href="https://github.com/maksudurrhmn/Portfolio.git">GitHub Repo</a>
     </td>
     <td align="center" width="33%">
-      <a href="YOUR_LIVE_LINK_2">
-        <img src="YOUR_IMAGE_LINK_2" width="100%" alt="Project 2"/>
+      <a href="https://sundownstudio-web.netlify.app">
+        <img src="assets/Sundowm-Studio.png" width="100%" alt="Project 2"/>
       </a>
       <br />
-      <b>Figma to HTML Landing Page</b>
+      <b>Sundown-Studio Web</b>
       <br />
-      <a href="YOUR_REPO_LINK_2">GitHub Repo</a>
+      <a href="https://github.com/maksudurrhmn/Sundown-Studio.git">GitHub Repo</a>
     </td>
     <td align="center" width="33%">
       <a href="YOUR_LIVE_LINK_3">
