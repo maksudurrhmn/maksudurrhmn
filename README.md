@@ -59,9 +59,9 @@ I enjoy turning **designs into pixel-perfect websites** and helping clients brin
         <img src="YOUR_IMAGE_LINK_3" width="100%" alt="Project 3"/>
       </a>
       <br />
-      <b>Modern Agency Website</b>
+      <b>ToDo List</b>
       <br />
-      <a href="YOUR_REPO_LINK_3">GitHub Repo</a>
+      <a href="https://github.com/maksudurrhmn/ToDo-List.git">GitHub Repo</a>
     </td>
   </tr>
 </table>
