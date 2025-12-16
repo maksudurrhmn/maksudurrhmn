@@ -55,13 +55,13 @@ I enjoy turning **designs into pixel-perfect websites** and helping clients brin
       <a href="https://github.com/maksudurrhmn/Sundown-Studio.git">GitHub Repo</a>
     </td>
     <td align="center" width="33%">
-      <a href="YOUR_LIVE_LINK_3">
-        <img src="YOUR_IMAGE_LINK_3" width="100%" alt="Project 3"/>
+      <a href="https://maksudurrhmn-todolist.vercel.app">
+        <img src="assets/todo-list.png" width="100%" alt="Project 3"/>
       </a>
       <br />
       <b>Modern Agency Website</b>
       <br />
-      <a href="YOUR_REPO_LINK_3">GitHub Repo</a>
+      <a href="https://github.com/maksudurrhmn/ToDo-List.git">GitHub Repo</a>
     </td>
   </tr>
 </table>
