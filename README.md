@@ -37,7 +37,7 @@ I enjoy turning **designs into pixel-perfect websites** and helping clients brin
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://maksudurrhmn-portfolio.netlify.app">
+      <a href="https://maksudurrhmn-portfolio.vercel.app">
         <img src="assets/portfolio.png" width="100%" alt="Project 1"/>
       </a>
       <br />
@@ -46,11 +46,11 @@ I enjoy turning **designs into pixel-perfect websites** and helping clients brin
       <a href="https://github.com/maksudurrhmn/Portfolio.git">GitHub Repo</a>
     </td>
     <td align="center" width="33%">
-      <a href="https://sundownstudio-web.netlify.app">
+      <a href="https://sundownstudio-web.vercel.app">
         <img src="assets/Sundowm-Studio.png" width="100%" alt="Project 2"/>
       </a>
       <br />
-      <b>Sundown-Studio Website</b>
+      <b>Sundown-Studio</b>
       <br />
       <a href="https://github.com/maksudurrhmn/Sundown-Studio.git">GitHub Repo</a>
     </td>
@@ -59,7 +59,7 @@ I enjoy turning **designs into pixel-perfect websites** and helping clients brin
         <img src="assets/todo-list.png" width="100%" alt="Project 3"/>
       </a>
       <br />
-      <b>Modern Agency Website</b>
+      <b>ToDo List</b>
       <br />
       <a href="https://github.com/maksudurrhmn/ToDo-List.git">GitHub Repo</a>
     </td>
