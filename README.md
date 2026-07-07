@@ -10,8 +10,8 @@ Welcome! Just a guy who loves messing around with tech, keeping things organized
 
 ### Performance & Languages
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maksudurrhmn&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksudurrhmn&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=maksudurrhmn&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maksudurrhmn&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 ### Contribution Activity
