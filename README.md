@@ -112,21 +112,21 @@ Short description of the project.
 
 <p align="center">
   <a href="https://github.com/maksudurrhmn">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maksudurrhmn&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="Maksudur Rahman's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maksudurrhmn&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Maksudur Rahman's GitHub Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/maksudurrhmn">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=maksudurrhmn&theme=radical&hide_border=true" alt="Maksudur Rahman's GitHub Streak" />
+    <img height="180em" src="https://streak-stats.demolab.com/?user=maksudurrhmn&theme=tokyonight&hide_border=true" alt="Maksudur Rahman's GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maksudurrhmn&theme=radical&hide_border=true&radius=10&area=true" alt="Maksudur Rahman's Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maksudurrhmn&theme=tokyonight&hide_border=true&radius=10&area=true" alt="Maksudur Rahman's Activity Graph" width="95%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/maksudurrhmn">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maksudurrhmn&langs_count=8&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maksudurrhmn&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
