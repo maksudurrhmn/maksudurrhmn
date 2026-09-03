@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d0/97/9b/d0979b26cec609049b3d1a3dee5b89b3.gif" alt="Banner" width="100%" />
+  <img src="assets/banner (1).svg" alt="Banner" width="100%" />
 </p>
 
 ## 👨‍💻 About Me
