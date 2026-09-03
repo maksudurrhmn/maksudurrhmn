@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/banner (1).svg" alt="Banner" width="100%" />
+  <img src="assets/banner (2).svg" alt="Banner" width="100%" />
 </p>
 
 ## 👨‍💻 About Me
