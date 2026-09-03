@@ -16,7 +16,7 @@
 
 Learning Full Stack Development  ⌘
 Technology & Computer Enthusiast  ✦
-Building With Code & Curiosity  ◌
+Building With Code & Curiosity  ⟡
 
 I'm focused on building modern, responsive web experiences while continuously improving my skills. I enjoy exploring technology, understanding how things work, and turning ideas into useful projects.
 
