@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=maksudurrhmn">
-    <img src="https://komarev.com/ghpvc/?username=maksudurrhmn&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=maksudurrhmn&label=Profile%20Views&color=262c36&style=flat-square" alt="Profile views" />
   </a>
 </p>
 
