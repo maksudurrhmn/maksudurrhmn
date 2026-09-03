@@ -121,10 +121,6 @@ Short description of the project.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maksudurrhmn&theme=tokyonight&hide_border=true&radius=10&area=true" alt="Maksudur Rahman's Activity Graph" width="95%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/maksudurrhmn">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maksudurrhmn&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
   </a>
