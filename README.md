@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/d0/97/9b/d0979b26cec609049b3d1a3dee5b89b3.gif" alt="Banner" width="100%" />
 </p>
 
 ## 👨‍💻 About Me
