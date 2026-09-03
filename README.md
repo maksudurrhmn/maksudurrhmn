@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <img src="assets/banner (2).svg" alt="Banner" width="100%" />
+  <img src="assets/banner.svg" alt="Banner" width="100%" />
 </p>
 
 ## 👨‍💻 About Me
 
-Learning Full Stack Development  ⌘
-Technology & Computer Enthusiast  ✦
-Building With Code & Curiosity  ⟡
+Learning Full Stack Development ⌘
+Technology & Computer Enthusiast ✦
+Building With Code & Curiosity ⟡
 
 I'm focused on building modern, responsive web experiences while continuously improving my skills. I enjoy exploring technology, understanding how things work, and turning ideas into useful projects.
 
@@ -24,11 +24,11 @@ I'm focused on building modern, responsive web experiences while continuously im
 
 ## 🌱 Currently Learning
 
-* Full Stack Web Development
-* TypeScript
-* React
-* Backend Development
-* Building Real-World Projects
+- Full Stack Web Development
+- TypeScript
+- React
+- Backend Development
+- Building Real-World Projects
 
 ---
 
