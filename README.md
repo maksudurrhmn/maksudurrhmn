@@ -167,7 +167,7 @@ Short description of the project.
 ## 💭 Quote
 
 <p align="center">
-  <i>Stay Hungry, Stay Foolish.</i>
+  <i>Stay curious. Keep building. ✦</i>
 </p>
 
 <p align="center">
