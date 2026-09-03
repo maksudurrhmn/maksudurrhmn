@@ -1,46 +1,183 @@
-# Hi, I'm Maksudur Rahman 👋
+<h1 align="center">Hey ⚡ I'm Maksudur Rahman</h1>
 
-Welcome! Just a guy who loves messing around with tech, keeping things organized, and making sure everything runs smoothly.
-
-*Keeping it clean. Keeping it optimized.*
-
----
-
-## 📊 GitHub Analytics
-
-### Performance & Languages
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=maksudurrhmn&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maksudurrhmn&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-</p>
-
-### Contribution Activity
-![Maksudurrhmn's Activity Graph](https://readme-activity-graph.vercel.app/graph?username=maksudurrhmn&theme=react-dark&hide_border=true)
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/maksudurrhmn/maksudurrhmn/main/dist/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/maksudurrhmn/maksudurrhmn/main/dist/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/maksudurrhmn/maksudurrhmn/main/dist/github-snake.svg" width="100%">
-  </picture>
+  <a href="https://komarev.com/ghpvc/?username=maksudurrhmn">
+    <img src="https://komarev.com/ghpvc/?username=maksudurrhmn&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile views" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
+</p>
+
+## 👨‍💻 About Me
+
+Learning Full Stack Development  ⌘
+Technology & Computer Enthusiast  ✦
+Building With Code & Curiosity  ◌
+
+I'm focused on building modern, responsive web experiences while continuously improving my skills. I enjoy exploring technology, understanding how things work, and turning ideas into useful projects.
+
+---
+
+## 🌱 Currently Learning
+
+* Full Stack Web Development
+* TypeScript
+* React
+* Backend Development
+* Building Real-World Projects
+
+---
+
+## 🛠️ Tech Stack
+
+<h3 align="center">💻 Languages</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" />
+</p>
+
+<h3 align="center">🎨 Frontend</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" />
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="45" />
+</p>
+
+<h3 align="center">🔧 Tools</h3>
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="GitHub" width="45" />
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="45" />
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="45" />
+</p>
+
+<h3 align="center">🖥️ Environment</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows" width="45" /> 
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/header.svg" alt="Hyprland" width="45" />
+</p>
+
+<h3 align="center">☁️ Deployment</h3>
+
+<p align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" width="45" /> 
+  &nbsp;&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="Netlify" width="45" /> 
 </p>
 
 ---
 
-## 📬 Connect With Me
+## 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://github.com/maksudurrhmn"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:maksudurrhmn2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://facebook.com/maksudurrhmnx"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/maksudurrhmn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.pinterest.com/maksudur_rhmn/"><img src="https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
+<p align="center">
+  <i>Projects coming soon — currently focused on learning and building.</i>
 </p>
 
-> 🐾 *Fun Fact: Turning coffee ☕ and hardware puzzles 🛠️ into smooth setups while my cat sits on the desk watching.*
+<!--
+### 🚀 Project Name
+
+Short description of the project.
+
+**Tech:** React · TypeScript · Tailwind CSS
+
+[Live Demo] · [Source Code]
+-->
 
 ---
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=maksudurrhmn&color=grey&style=flat-square" alt="Profile Views" />
+## 📊 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/maksudurrhmn">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maksudurrhmn&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="Maksudur Rahman's GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/maksudurrhmn">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=maksudurrhmn&theme=radical&hide_border=true" alt="Maksudur Rahman's GitHub Streak" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maksudurrhmn&theme=radical&hide_border=true&radius=10&area=true" alt="Maksudur Rahman's Activity Graph" width="95%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/maksudurrhmn">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maksudurrhmn&langs_count=8&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+
+  <a href="mailto:maksudurrhmn2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://maksudurrhmn-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://facebook.com/maksudurrhmn">
+    <img src="https://img.shields.io/badge/Facebook-00FFFF?style=for-the-badge&logo=facebook&logoColor=black" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://instagram.com/maksudurrhmn">
+    <img src="https://img.shields.io/badge/Instagram-00FFFF?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.pinterest.com/maksudur_rhmn">
+    <img src="https://img.shields.io/badge/Pinterest-00FFFF?style=for-the-badge&logo=pinterest&logoColor=black" alt="Pinterest" />
+  </a>
+
+</p>
+
+---
+
+## 💭 Quote
+
+<p align="center">
+  <i>Stay Hungry, Stay Foolish.</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Contribution animation" />
+</p>
+
+<p align="center">
+  <sub>Building • Learning • Exploring ✦</sub>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
