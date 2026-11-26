@@ -1,10 +1,8 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Maksudur Rahman</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm </h1>
 
 <p align="center">
-  <img src="assets/maksudurrhmn-profile-banner.svg" alt="Banner" width="100%" />
+  <img src="assets/maksudur-rahman-banner.svg" alt="Banner" width="100%" />
 </p>
-
-<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=maksudurrhmn">
