@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/maksudur-rahman-banner.svg" alt="Banner" width="100%" />
+  <img src="assets/maksudurrhmn-profile-banner.svg" alt="Banner" width="100%" />
 </p>
 
 ## 👨‍💻 About Me
