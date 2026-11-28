@@ -13,7 +13,14 @@
 ## <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-I'm a Full-Stack Web Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy exploring new technologies, solving problems, and turning ideas into practical solutions. Currently, I'm deepening my knowledge of TypeScript, Next.js, and backend development while building real-world projects.
+I'm a Full-Stack Web Developer passionate about crafting modern, scalable, and user-focused web applications. I enjoy transforming ideas into meaningful digital experiences through clean code, thoughtful design, and practical problem-solving. Working with JavaScript, TypeScript, React, Next.js, Node.js, Express.js, and MongoDB, I focus on building functional solutions while continuously refining my technical skills.
+</p>
+
+<h3 align="center">✦ What I'm Focused On</h3>
+
+<p align="center">
+Building end-to-end web applications · Designing robust backend systems<br/>
+Exploring modern web technologies · Writing clean, maintainable code
 </p>
 
 ---
