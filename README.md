@@ -61,37 +61,55 @@ I'm a Full-Stack Web Developer passionate about building modern, responsive, and
 
 ## <h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
-
-### MentorLagbe
-
-A full-stack tutoring platform connecting students with tutors, featuring tutor applications and role-based dashboards.
-
-**Tech:** Next.js · React · Tailwind CSS · Node.js · Express.js · MongoDB
-
-[Live Demo](YOUR_LIVE_URL) · [Client Repository](YOUR_CLIENT_REPO) · [Server Repository](YOUR_SERVER_REPO)
-
----
-
-### BookNook
-
-A modern book management platform for exploring and managing books with authentication and database integration.
-
-**Tech:** Next.js · Node.js · Express.js · MongoDB · Better Auth
-
-[Live Demo](YOUR_LIVE_URL) · [Client Repository](YOUR_CLIENT_REPO) · [Server Repository](YOUR_SERVER_REPO)
-
----
-
-### BazarDor
-
-A Bangla-focused market price platform designed to help users explore market price information.
-
-**Tech:** Next.js · React · Tailwind CSS · MongoDB · Better Auth
-
-[Live Demo](YOUR_LIVE_URL) · [Source Code](YOUR_REPO)
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🎓 MentorLagbe</h3>
+      <p>A full-stack tutoring platform connecting students with tutors, featuring tutor applications and role-based dashboards.</p>
+      <p><strong>Tech Stack</strong></p>
+      <p>Next.js · React · Tailwind CSS · Node.js · Express.js · MongoDB</p>
+      <p>
+        <a href="YOUR_MENTORLAGBE_LIVE_URL">Live Demo</a> ·
+        <a href="YOUR_MENTORLAGBE_CLIENT_REPO">Client</a> ·
+        <a href="YOUR_MENTORLAGBE_SERVER_REPO">Server</a>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>📚 BookNook</h3>
+      <p>A modern book management platform for exploring and managing books with authentication and database integration.</p>
+      <p><strong>Tech Stack</strong></p>
+      <p>Next.js · Node.js · Express.js · MongoDB · Better Auth</p>
+      <p>
+        <a href="YOUR_BOOKNOOK_LIVE_URL">Live Demo</a> ·
+        <a href="YOUR_BOOKNOOK_CLIENT_REPO">Client</a> ·
+        <a href="YOUR_BOOKNOOK_SERVER_REPO">Server</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🛒 BazarDor</h3>
+      <p>A Bangla-focused market price platform designed to help users explore market price information.</p>
+      <p><strong>Tech Stack</strong></p>
+      <p>Next.js · React · Tailwind CSS · MongoDB · Better Auth</p>
+      <p>
+        <a href="YOUR_BAZARDOR_LIVE_URL">Live Demo</a> ·
+        <a href="YOUR_BAZARDOR_REPO">Source Code</a>
+      </p>
+    </td>
+     <td width="50%" valign="top" align="center">
+      <h3>🏋️ FitLog</h3>
+      <p>A modern workout planning app to explore exercises, create daily workout plans, save favorite workouts, and track workout statistics.</p>
+      <p><strong>Tech Stack</strong></p>
+      <p>Next.js · React · TypeScript · Tailwind CSS · DaisyUI · REST API</p>
+      <p>
+        <a href="YOUR_BOOKNOOK_LIVE_URL">Live Demo</a> ·
+        <a href="YOUR_BOOKNOOK_CLIENT_REPO">Client</a> ·
+        <a href="YOUR_BOOKNOOK_SERVER_REPO">Server</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
