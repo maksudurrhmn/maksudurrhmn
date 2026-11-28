@@ -78,9 +78,9 @@ Exploring modern web technologies · Writing clean, maintainable code
       <p><strong>Tech Stack</strong></p>
       <p>Next.js · React · Tailwind CSS · Node.js · Express.js · MongoDB</p>
       <p>
-        <a href="YOUR_MENTORLAGBE_LIVE_URL">Live Demo</a> ·
-        <a href="YOUR_MENTORLAGBE_CLIENT_REPO">Client</a> ·
-        <a href="YOUR_MENTORLAGBE_SERVER_REPO">Server</a>
+        <a href="https://mentorlagbe-ph.vercel.app">Live Demo</a> ·
+        <a href="https://github.com/maksudurrhmn/MentorLagbe-Client.git">Client</a> ·
+        <a href="https://github.com/maksudurrhmn/MentorLagbe-Server.git">Server</a>
       </p>
     </td>
     <td width="50%" valign="top" align="center">
@@ -89,9 +89,9 @@ Exploring modern web technologies · Writing clean, maintainable code
       <p><strong>Tech Stack</strong></p>
       <p>Next.js · Node.js · Express.js · MongoDB · Better Auth</p>
       <p>
-        <a href="YOUR_BOOKNOOK_LIVE_URL">Live Demo</a> ·
-        <a href="YOUR_BOOKNOOK_CLIENT_REPO">Client</a> ·
-        <a href="YOUR_BOOKNOOK_SERVER_REPO">Server</a>
+        <a href="https://booknook-ph.vercel.app">Live Demo</a> ·
+        <a href="https://github.com/maksudurrhmn/BookNook-Client.git">Client</a> ·
+        <a href="https://github.com/maksudurrhmn/BookNook-Server.git">Server</a>
       </p>
     </td>
   </tr>
@@ -102,8 +102,8 @@ Exploring modern web technologies · Writing clean, maintainable code
       <p><strong>Tech Stack</strong></p>
       <p>Next.js · React · Tailwind CSS · MongoDB · Better Auth</p>
       <p>
-        <a href="YOUR_BAZARDOR_LIVE_URL">Live Demo</a> ·
-        <a href="YOUR_BAZARDOR_REPO">Source Code</a>
+        <a href="https://bazardor-ph.vercel.app">Live Demo</a> ·
+        <a href="https://github.com/maksudurrhmn/BazarDor-PH.git">Source Code</a>
       </p>
     </td>
      <td width="50%" valign="top" align="center">
@@ -112,9 +112,8 @@ Exploring modern web technologies · Writing clean, maintainable code
       <p><strong>Tech Stack</strong></p>
       <p>Next.js · React · TypeScript · Tailwind CSS · DaisyUI · REST API</p>
       <p>
-        <a href="YOUR_BOOKNOOK_LIVE_URL">Live Demo</a> ·
-        <a href="YOUR_BOOKNOOK_CLIENT_REPO">Client</a> ·
-        <a href="YOUR_BOOKNOOK_SERVER_REPO">Server</a>
+        <a href="https://fitlogph.vercel.app">Live Demo</a> ·
+        <a href="https://github.com/maksudurrhmn/Fitlog-PH.git">Source Code</a> ·
       </p>
     </td>
   </tr>
