@@ -23,57 +23,43 @@ I'm a Full-Stack Web Developer passionate about building modern, responsive, and
 <h3 align="center">💻 Languages</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="JavaScript, TypeScript, HTML, CSS" />
 </p>
 
-<h3 align="center">🎨 Frontend</h3>
+<h3 align="center">🎨 Frontend Development</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" /> 
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="45" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="React, Next.js, Tailwind CSS, Bootstrap" />
 </p>
 
-<h3 align="center">🔧 Tools</h3>
+<h3 align="center">⚙️ Backend & Database</h3>
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="GitHub" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js, MongoDB" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Better%20Auth-333333?style=flat-square&logoColor=white" alt="Better Auth" />
+</p>
+
+<h3 align="center">🔧 Tools & Technologies</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite" alt="Git, GitHub, VS Code, Figma, Vite" />
 </p>
 
 <h3 align="center">🖥️ Environment</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" />
+  <img src="https://skillicons.dev/icons?i=linux,windows" alt="Linux and Windows" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows" width="45" /> 
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/header.svg" alt="Hyprland" width="45" />
+  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=black" alt="Hyprland" />
 </p>
 
 <h3 align="center">☁️ Deployment</h3>
 
-<p align="center"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" width="45" /> 
-  &nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="Netlify" width="45" /> 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Vercel and Netlify" />
 </p>
 
 ---
