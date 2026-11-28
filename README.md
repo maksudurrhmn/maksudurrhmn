@@ -20,47 +20,42 @@ I'm a Full-Stack Web Developer passionate about building modern, responsive, and
 
 ## <h2 align="center">🛠️ Tech Stack</h2>
 
-<h3 align="center">💻 Languages</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="JavaScript, TypeScript, HTML, CSS" />
-</p>
-
-<h3 align="center">🎨 Frontend Development</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="React, Next.js, Tailwind CSS, Bootstrap" />
-</p>
-
-<h3 align="center">⚙️ Backend & Database</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js, MongoDB" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Better%20Auth-333333?style=flat-square&logoColor=white" alt="Better Auth" />
-</p>
-
-<h3 align="center">🔧 Tools & Technologies</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite" alt="Git, GitHub, VS Code, Figma, Vite" />
-</p>
-
-<h3 align="center">🖥️ Environment</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows" alt="Linux and Windows" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=black" alt="Hyprland" />
-</p>
-
-<h3 align="center">☁️ Deployment</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Vercel and Netlify" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Languages" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend & Database</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and Database" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Better_Auth-333333?style=flat-square" alt="Better Auth" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🔧 Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite" alt="Tools" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🖥️ Environment</h3>
+      <img src="https://skillicons.dev/icons?i=linux,windows" alt="Environment" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square" alt="Hyprland" />
+    </td>
+    <td align="center" width="50%">
+      <h3>☁️ Deployment</h3>
+      <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Deployment" />
+    </td>
+  </tr>
+</table>
 
 ---
 
