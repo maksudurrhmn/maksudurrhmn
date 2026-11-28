@@ -125,25 +125,6 @@ A Bangla-focused market price platform designed to help users explore market pri
 
 ---
 
-## <h2 align="center">📊 GitHub Activity</h2>
-
-<p align="center">
-  <a href="https://github.com/maksudurrhmn">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=maksudurrhmn&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Maksudur Rahman's GitHub Stats" />
-  </a>
-  <a href="https://github.com/maksudurrhmn">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=maksudurrhmn&theme=tokyonight&hide_border=true" alt="Maksudur Rahman's GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/maksudurrhmn">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=maksudurrhmn&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
----
-
 ## <h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
