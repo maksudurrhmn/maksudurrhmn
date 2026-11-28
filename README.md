@@ -10,27 +10,26 @@
   </a>
 </p>
 
-## 👨‍💻 About Me
+## <h2 align="center">👨‍💻 About Me</h2>
 
-Learning Full Stack Development ⌘
-Technology & Computer Enthusiast ✦
-Building With Code & Curiosity ⟡
-
-I'm focused on building modern, responsive web experiences while continuously improving my skills. I enjoy exploring technology, understanding how things work, and turning ideas into useful projects.
-
----
-
-## 🌱 Currently Learning
-
-- Full Stack Web Development
-- TypeScript
-- React
-- Backend Development
-- Building Real-World Projects
+<p align="center">
+  ✦ Full-Stack Web Developer<br/>
+  ⌘ Creating things for the web<br/>
+  ⟡ Curious about technology &amp; innovation
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## <h2 align="center">🌱 Currently Learning</h2>
+
+<p align="center">
+  React.js · Next.js · TypeScript<br/>
+  Node.js · Express.js · MongoDB
+</p>
+
+---
+
+## <h2 align="center">🛠️ Tech Stack</h2>
 
 <h3 align="center">💻 Languages</h3>
 
@@ -90,31 +89,48 @@ I'm focused on building modern, responsive web experiences while continuously im
 
 ---
 
-## 🚀 Featured Projects
+## <h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
-  <i>Projects coming soon — currently focused on learning and building.</i>
-</p>
+<div align="center">
 
-<!--
-### 🚀 Project Name
+### MentorLagbe
 
-Short description of the project.
+A full-stack tutoring platform connecting students with tutors, featuring tutor applications and role-based dashboards.
 
-**Tech:** React · TypeScript · Tailwind CSS
+**Tech:** Next.js · React · Tailwind CSS · Node.js · Express.js · MongoDB
 
-[Live Demo] · [Source Code]
--->
+[Live Demo](YOUR_LIVE_URL) · [Client Repository](YOUR_CLIENT_REPO) · [Server Repository](YOUR_SERVER_REPO)
 
 ---
 
-## 📊 GitHub Activity
+### BookNook
+
+A modern book management platform for exploring and managing books with authentication and database integration.
+
+**Tech:** Next.js · Node.js · Express.js · MongoDB · Better Auth
+
+[Live Demo](YOUR_LIVE_URL) · [Client Repository](YOUR_CLIENT_REPO) · [Server Repository](YOUR_SERVER_REPO)
+
+---
+
+### BazarDor
+
+A Bangla-focused market price platform designed to help users explore market price information.
+
+**Tech:** Next.js · React · Tailwind CSS · MongoDB · Better Auth
+
+[Live Demo](YOUR_LIVE_URL) · [Source Code](YOUR_REPO)
+
+</div>
+
+---
+
+## <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
   <a href="https://github.com/maksudurrhmn">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maksudurrhmn&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Maksudur Rahman's GitHub Stats" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=maksudurrhmn&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Maksudur Rahman's GitHub Stats" />
   </a>
-  
   <a href="https://github.com/maksudurrhmn">
     <img height="180em" src="https://streak-stats.demolab.com/?user=maksudurrhmn&theme=tokyonight&hide_border=true" alt="Maksudur Rahman's GitHub Streak" />
   </a>
@@ -122,23 +138,28 @@ Short description of the project.
 
 <p align="center">
   <a href="https://github.com/maksudurrhmn">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maksudurrhmn&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=maksudurrhmn&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## <h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
 
   <a href="mailto:maksudurrhmn2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=maildotru&logoColor=black" alt="Email" />
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://maksudurrhmn-portfolio.netlify.app">
+  <a href="https://maksudurrhmn.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/maksudurrhmn">
+    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
 
@@ -150,17 +171,12 @@ Short description of the project.
   <a href="https://instagram.com/maksudurrhmn">
     <img src="https://img.shields.io/badge/Instagram-00FFFF?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;
-
-  <a href="https://www.pinterest.com/maksudur_rhmn">
-    <img src="https://img.shields.io/badge/Pinterest-00FFFF?style=for-the-badge&logo=pinterest&logoColor=black" alt="Pinterest" />
-  </a>
 
 </p>
 
 ---
 
-## 💭 Quote
+## <h2 align="center">💭 Quote</h2>
 
 <p align="center">
   <i>Stay curious. Keep building. ✦</i>
