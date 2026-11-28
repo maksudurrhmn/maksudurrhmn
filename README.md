@@ -13,18 +13,7 @@
 ## <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  ✦ Full-Stack Web Developer<br/>
-  ⌘ Creating things for the web<br/>
-  ⟡ Curious about technology &amp; innovation
-</p>
-
----
-
-## <h2 align="center">🌱 Currently Learning</h2>
-
-<p align="center">
-  React.js · Next.js · TypeScript<br/>
-  Node.js · Express.js · MongoDB
+  I'm a Full-Stack Web Developer passionate about building modern web applications and exploring new technologies. Currently expanding my skills in React, Next.js, TypeScript, Node.js, Express.js, and MongoDB.
 </p>
 
 ---
@@ -33,7 +22,7 @@
 
 <h3 align="center">💻 Languages</h3>
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" />
