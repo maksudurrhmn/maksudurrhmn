@@ -1,8 +1,10 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm </h1>
 
 <p align="center">
-  <img src="assets/banners/maksudur-rahman-banner.png" alt="Banner" width="100%" />
+  <img src="assets/banners/banner3.svg" alt="Banner" width="100%" />
 </p>
+
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=maksudurrhmn">
